@@ -84,10 +84,11 @@ ul {
 }
 
 img {
-	position: relative;
+	position: absolute;
 	width: 600px;
 	height: 600px;
-	top: 350px;
+	top: 500px;
+	left: 370px;
 }
 
 .headings_2 {
@@ -227,6 +228,6 @@ a {
 
 .frame {
 	position: absolute;
-	top: 2230px;
-	left: 110px;
+	top: 2630px;
+	left: 310px;
 }
