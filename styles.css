@@ -225,8 +225,8 @@ a {
 	color: white;
 }
 
-iframe {
-	position: relative;
+.frame {
+	position: absolute;
 	top: 2630px;
 	left: 310px;
 }
